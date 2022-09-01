@@ -37,9 +37,9 @@ fs.readFile("Arduino_VScode.json", (err, data) => {
       (err) => {
         if (err) console.log("Error generating file!");
         console.log(
-          "Generated" +
+          "Generated " +
             json_sublime.completions.length +
-            "completions Successfully!"
+            " suggestions Successfully!"
         );
       }
     );
