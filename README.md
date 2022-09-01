@@ -2,8 +2,7 @@
 > Auto-Complete / Auto-suggestion for arduino (.ino/.c) file for Sublime Text Editor (3/4)
 
 ## 💻 Screenshot
-![screenshot](screenshot/arduino.jpg)
-
+![screenshot](screenshots/arduino.jpg)
 
 ## 📩 Usage
 
